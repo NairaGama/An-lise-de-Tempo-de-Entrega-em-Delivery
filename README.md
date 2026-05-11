@@ -21,4 +21,5 @@ Realização de uma análise exploratória dos dados, visualizando os fatores im
 - Análise Exploratória dos Dados (EDA)
 - Insights da análise
 - Análise de interação entre fatores
-- Dataset final para dashboard
+- Dashboard
+- Assistente Analítico
